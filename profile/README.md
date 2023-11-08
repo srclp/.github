@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/srclp">
-    <img src="../assets/srclp-sqaure.png" />
+    <img src="https://raw.githubusercontent.com/srclp/.github/main/assets/srclp-sqaure.png" />
   </a>
 </p>
 
@@ -24,4 +24,4 @@ Welcome to the "Source Code Learning Project" organization! Our mission is to le
 
 ## Contribute
 
-We welcome contributions from developers of all levels. Your contributions can include bug fixes, new features, documentation improvements, or simply helping with issues and discussions. If you have an idea or want to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+We welcome contributions from developers of all levels. Your contributions can include bug fixes, new features, documentation improvements, or simply helping with issues and discussions. If you have an idea or want to contribute, please follow our [Contribution Guidelines](./CONTRIBUTING.md).
