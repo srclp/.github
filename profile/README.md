@@ -24,4 +24,4 @@ Welcome to the "Source Code Learning Project" organization! Our mission is to le
 
 ## Contribute
 
-We welcome contributions from developers of all levels. Your contributions can include bug fixes, new features, documentation improvements, or simply helping with issues and discussions. If you have an idea or want to contribute, please follow our [Contribution Guidelines](./CONTRIBUTING.md).
+We welcome contributions from developers of all levels. Your contributions can include bug fixes, new features, documentation improvements, or simply helping with issues and discussions. If you have an idea or want to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
