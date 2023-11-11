@@ -20,7 +20,7 @@ Welcome to the "Source Code Learning Project" organization! Our mission is to le
 
 4. **Start Coding:** Study the code, make improvements, add features, and learn from the process. Be sure to check the project's specific README for detailed instructions.
 
-5. **Create Pull Requests:** Once you've made changes or improvements, submit a pull request to the original repository. Your contributions will be reviewed, and you can learn from feedback provided by experienced developers.
+5. **Create Pull Requests:** Once you've made changes or improvements, submit a pull request to the original repository.
 
 ## Contribute
 
